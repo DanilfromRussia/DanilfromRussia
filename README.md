@@ -3,8 +3,8 @@
 
 ##You can see my Frontend projects below
 
-- [Коллекция фото | React]([[URL](https://danilfromrussia.github.io/react-photo-collection/)](https://github.com/DanilfromRussia/react-photo-collection))
-- [Landing Дизайн-фирмы| JS, SCSS, Leaflet]([[URL](https://danilfromrussia.github.io/react-photo-collection/)](https://github.com/DanilfromRussia/oxygen.github.io))
+- [Коллекция фото | React](https://danilfromrussia.github.io/react-photo-collection/)
+- [Landing Дизайн-фирмы| JS, SCSS, Leaflet](https://danilfromrussia.github.io/react-photo-collection/)
 - [Landing Продажи суперкаров | HTML5, CSS3](https://danilfromrussia.github.io/)
 
 
