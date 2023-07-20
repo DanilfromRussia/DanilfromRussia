@@ -4,8 +4,8 @@
 ### You can see my Frontend projects below
 
 - [Коллекция фото | React](https://danilfromrussia.github.io/react-photo-collection/)
-- [Landing Дизайн-фирмы| JS, SCSS, Leaflet](https://danilfromrussia.github.io/react-photo-collection/)
-- [Landing Продажи суперкаров | HTML5, CSS3](https://danilfromrussia.github.io/)
+- [Landing Дизайн-фирмы| JS, SCSS, Leaflet](https://github.com/DanilfromRussia/oxygen.github.io)
+- [Landing Продажи суперкаров | HTML5, CSS3](https://github.com/DanilfromRussia/DanilfromRussia.github.io)
 
 
 <!--
